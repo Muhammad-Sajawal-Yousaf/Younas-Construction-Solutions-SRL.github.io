@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: UpConstruction
-Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Younas Construction Solutions SRL
+Template URL: Younas Construction Solutions SRL
+Author: Younas Construction Solutions SRL
+License: Younas Construction Solutions SRL
