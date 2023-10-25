@@ -36,6 +36,7 @@ body {
   font-family: var(--font-default);
   color: var(--color-default);
   overflow-x: hidden;
+  background-color: #ecd59f;
 }
 
 a {
@@ -66,7 +67,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f5f6f7;
+  background-color: #7dcfb6;
 }
 
 .section-header {
@@ -206,7 +207,7 @@ section {
   inset: 0;
   z-index: 999999;
   overflow: hidden;
-  background: #fff;
+  background: #7dcfb6;
   transition: all 0.6s ease-out;
 }
 
